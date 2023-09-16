@@ -1,7 +1,7 @@
 ---
 title: "Home"
 layout: homelay
-excerpt: "CSS Lab at Uppsala University"
+excerpt: "UUCSSLab"
 sitemap: false
 permalink: /
 ---
