@@ -11,13 +11,12 @@ permalink: /people/
 <!-- Staff -->
 
 <h2><a id="staff"></a>Staff</h2>
-{% assign members = site.posts | where: 'category', 'staff' | sort: 'surname' %}
-{% for member in members %}
+{% for person in site.data.staff %}
 <div class="card team-member-card">
     <div class="row mt-3">
         <div class="col-md-2">
-            <a href={{member.webpage}}>
-                <img src="{{ site.url }}{{ site.baseurl }}/images/team/{{ member.image }}"
+            <a href={{person.url}}>
+                <img src="{{ person.pic }}"
                     class="card-img img-responsive img-thumbnail"
                     style="filter: grayscale(100%); max-width: 100px;"/>
             </a>
@@ -25,8 +24,8 @@ permalink: /people/
 
         <div class="col-md-10">
             <div class="card-body">
-            <h4 class="card-title">{{ member.name }} {{ member.surname }}</h4>
-            <p class="card-text">{{ member.role }}</p>
+            <h4 class="card-title">{{ person.name }}</h4>
+            <p class="card-text">{{ person.tile }}</p>
             </div>
         </div>
     </div>
@@ -36,13 +35,12 @@ permalink: /people/
 <!-- Students -->
 
 <h2><a id="student"></a>PhD Students</h2>
-{% assign members = site.posts | where: 'category', 'student' | sort: 'surname' %}
-{% for member in members %}
+{% for person in site.data.students %}
 <div class="card team-member-card">
     <div class="row mt-3">
         <div class="col-md-2">
-            <a href={{member.webpage}}>
-                <img src="{{ site.url }}{{ site.baseurl }}/images/team/{{ member.image }}"
+            <a href={{person.url}}>
+                <img src="{{ person.pic }}"
                     class="card-img img-responsive img-thumbnail"
                     style="filter: grayscale(100%); max-width: 100px;"/>
             </a>
@@ -50,11 +48,10 @@ permalink: /people/
 
         <div class="col-md-10">
             <div class="card-body">
-            <h4 class="card-title">{{ member.name }} {{ member.surname }}</h4>
-            <p class="card-text">{{ member.role }}</p>
+            <h4 class="card-title">{{ person.name }} </h4>
+            <p class="card-text">{{ person.title }}</p>
             </div>
         </div>
     </div>
 </div>
-
 {% endfor %}
