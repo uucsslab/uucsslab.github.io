@@ -7,6 +7,7 @@
 
 # Site settings
 title: Uppsala University Computational Social Science Lab
+shorttitle: UUCSS Lab
 email:
 description: > # this means to ignore newlines until "baseurl:"
   A university-wide collaboration for the integration of computational and social sciences, focusing on advanced computational methods, statistical inference, social scientific sensitivity and relevance.
