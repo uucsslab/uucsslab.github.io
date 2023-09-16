@@ -2,5 +2,5 @@
 layout: member
 category: staff
 title: Matteo Magnani
-image: researcher.png
-role: Arofessor of data science, InfoLab, Dept. of Information Technology
+image: matteo.png
+role: Professor of data science, InfoLab, Dept. of Information Technology
