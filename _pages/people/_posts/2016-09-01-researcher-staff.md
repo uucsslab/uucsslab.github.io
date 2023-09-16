@@ -4,7 +4,8 @@ category: staff
 title: Davide Vega
 image: davide.png
 role: Lab Director
-permalink: 'team/researcher-name'
+permalink: 'people/davide-vega'
+webpage: 'https://www.katalog.uu.se/empinfo/?id=N14-1967'
 social:
     twitter: https://twitter.com/
     linkedin: https://www.linkedin.com/
