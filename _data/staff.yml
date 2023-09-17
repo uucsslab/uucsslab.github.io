@@ -19,12 +19,13 @@
   pic: "ilkka.png"
   url: "https://www.katalog.uu.se/profile/?id=N8-1391"
   title: "Professor of Sociology, Dept. of Economics"
+- name: "Alexandra Segerberg"
+  pic: "alexandra.png"
+  url: "https://www.katalog.uu.se/profile/?id=N18-1556"
+  title: "Associate Professor, Dept. of Government"
 - name: "Davide Vega D'Aurelio"
   pic: "davide.png"
   url: "https://www.katalog.uu.se/empinfo/?id=N14-1967"
   title: "Assistant Professor, InfoLab, Dept. of Information Technology"
-- name: "Victoria Yantseva"
-  pic: "victoria.png"
-  url: "https://katalog.uu.se/profile/?id=N22-1006"
-  title: "PostDoc, InfoLab, Dept. of Information Technology"
+
 
