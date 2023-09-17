@@ -10,7 +10,7 @@ permalink: /research/
 
 <!-- Staff -->
 
-{% assign projects = site.posts %}
+{% assign projects = site.posts | sort = "to" | reverse %}
 {% for project in projects %}
 <div class="card team-member-card">
     <div class="row mt-3">
@@ -24,7 +24,7 @@ permalink: /research/
 
         <div class="col-md-10">
             <div class="card-body">
-            <h4 class="card-title">{{ project.shortname }}</h4>
+            <h4 class="card-title">{{ project.shortname }} ({{ project.from }}-{{ project.to }})</h4>
             <p class="card-text">{{ project.shorttext }}</p>
             </div>
         </div>

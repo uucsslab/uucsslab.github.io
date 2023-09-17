@@ -6,20 +6,19 @@ layout: default
     <div class=row>
         <nav aria-label="breadcrumb">
         <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="{{ site.baseurl }}/team">Team</a></li>
-            <li class="breadcrumb-item text-capitalize"><a href="{{ site.baseurl }}/team#{{ page.category }}">{{ page.category }}</a></li>
-            <li class="breadcrumb-item active" aria-current="page">{{ page.title }}</li>
+            <li class="breadcrumb-item"><a href="{{ site.baseurl }}/team">Projects</a></li>
+            <li class="breadcrumb-item active" aria-current="page">{{ page.shortname }}</li>
         </ol>
         </nav>
     </div>
     <div class="row text-center">
         <!-- Avatar -->
-        <img src="{{ site.url }}{{ site.baseurl }}/images/team/{{ page.image }}"
+        <img src="{{ site.url }}{{ site.baseurl }}/images/projects/{{ page.image }}"
              class="img-circle"
              style="filter: grayscale(100%); max-width: 200px;"/>
 
         <!-- Name & Role -->
-        <h1>{{ page.title }}</h1>
+        <h1>{{ page.name }}</h1>
         <h3>{{ page.role }}</h3>
 
         <!-- Social -->
@@ -32,6 +31,10 @@ layout: default
             {% if page.social.linkedin %}
                 <li><a target="blank" href="{{page.social.linkedin}}"><i class="fab fa-linkedin"></i></a></li>
             {% endif %}
+            <!-- Email
+            {% if page.social.email %}
+                <li><a target="blank" href="{{page.social.email}}"><i class="fab fa-email"></i></a></li>
+            {% endif %}-->
             <!-- Github -->
             {% if page.social.github %}
                 <li><a target="blank" href="{{page.social.github}}"><i class="fab fa-github"></i></a></li>
@@ -55,19 +58,26 @@ layout: default
         </ul>
     </div>
 
-    <!-- Education -->
-    <div class="row">
-        <h3>Education</h3>
-        <ul class="list-unstyled">
-            {% for education in page.education %}
-                <li>{{education}}</li>
-            {% endfor %}
-        </ul>
-    </div>
 
     <!-- Bio -->
     <div class="row">
-        <h3>Bio</h3>
+        <h3>About</h3>
         {{ content }}
+    </div>
+    
+    <!-- Contact -->
+    <div class="row">
+        <h3>Contact</h3>
+        {{ page.contact }}
+    </div>
+    
+    <!-- Funding -->
+    <div class="row">
+        <h3>Funding</h3>
+        <ul class="list-unstyled">
+            {% for funder in page.funders %}
+                <li>{{ funder }}</li>
+            {% endfor %}
+        </ul>
     </div>
 </div>
