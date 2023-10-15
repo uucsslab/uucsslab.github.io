@@ -11,7 +11,7 @@ social:
   email: "alexandra.segerberg@statsvet.uu.se"
 contact: "Alexandra Segerberg, Matteo Magnani"
 funders:
-  - "VR 2021-02769"
+  - "Vetenskapsrådet (VR) 2021-02769"
 ---
 
 This project addresses the visual dimension of power over public agenda in the digital age.
@@ -22,5 +22,5 @@ A key obstacle has been the inability to address complex information spread base
 
 The project contributes state-of-the-art methodology that can be applied across issues, sheds light on the conditions for integrating AI into political research, and provides fresh traction on a classic phenomenon in the study of democracy: power over public agenda.
 
-We are grateful to the AI4Research initiative at Uppsala University for hosting the project PIs during the development of the project idea. The project uses computational resources provided by the NAISS (formerly SNICC) Swedish National research infrastructure.
+We are grateful to the AI4Research initiative at Uppsala University for hosting the project PIs during the development of the project idea. The project uses computational resources provided by the NAISS (formerly SNIC) Swedish National research infrastructure.
 
