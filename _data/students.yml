@@ -1,1 +1,8 @@
-
+- name: "George Panayiotou"
+  pic: "george.png"
+  url: "https://www.it.uu.se/katalog/geopa377"
+  title: "PhD Student, InfoLab, Dept. of Information Technology"
+- name: "Matias Piqueras"
+  pic: "matias.png"
+  url: "https://www.it.uu.se/katalog/matpi832"
+  title: "PhD Student, InfoLab, Dept. of Information Technology"
