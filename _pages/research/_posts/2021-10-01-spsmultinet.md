@@ -22,4 +22,4 @@ In this project, we address both shortcomings by constructing multilayer social 
 
 Examples of questions we plan to ask in the project are: what characterises the individuals who are segregated within the networks - for example, regarding place of residence, family relationships, income level, immigration status and level of education? Has the development over time been similar for all categories of individuals or has the negative or positive development been more noticeable for certain categories than others? Questions of this type are in focus within this project.
 
-This project has received seed funding by the Centre for Integrated Research on Culture and Society (CIRCUS) at Uppsala University for data acquisition and preparation of grant proposals.
+This project has received seed funding from the Centre for Integrated Research on Culture and Society (CIRCUS) at Uppsala University for data acquisition and preparation of grant proposals.
