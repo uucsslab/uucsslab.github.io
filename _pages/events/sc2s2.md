@@ -6,11 +6,11 @@ sitemap: false
 permalink: /events/sc2s2-2024
 ---
 
-# Swedish Conference on Computational Social Science (CSS)
+# Swedish Conference on Computational Social Science
 
-Uppsala, 23-25 April 2024
+**Uppsala, 23-25 April 2024**
 
-The objective of the conference is to bring together researchers from different disciplines interested in using or in the use of computational methods to study or address societally relevant phenomena. The conference is targeted to researchers affiliated with Swedish institutions, to contribute to the establishment of the CSS community in Sweden.
+The objective of the conference is to bring together researchers from different disciplines interested in using or in the use of computational methods to study or address societally relevant phenomena. The conference is targeted to researchers affiliated with Swedish institutions, to contribute to the establishment of the Computational Social Science (CSS) community in Sweden.
 
 Topics of interest include, but are not limited to:
 
@@ -24,7 +24,7 @@ The conference will be held in Uppsala on April 23-25, 2024 (lunch to lunch). To
 
 To apply for participation, please fill in this [application form](https://doit.medfarm.uu.se/bin/kurt3/kurt/103101) by January 15, 2024. For questions, please contact us at: it-uucss-info@lists.uu.se.
 
-## Venue  (TBD)
+%% ## Venue  (TBD)
 
 ## Programme (TBD)
 
