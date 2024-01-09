@@ -24,8 +24,6 @@ The conference will be held in Uppsala on April 23-25, 2024 (lunch to lunch). To
 
 To apply for participation, please fill in this [application form](https://doit.medfarm.uu.se/bin/kurt3/kurt/103101) by January 15, 2024. For questions, please contact us at: it-uucss-info@lists.uu.se.
 
-%% ## Venue  (TBD)
-
 ## Programme (TBD)
 
 ## Sponsors
