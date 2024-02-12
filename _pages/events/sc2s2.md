@@ -1,7 +1,6 @@
 ---
 title: "Swedish Conference on Computational Social Science"
 layout: default
-excerpt: "Swedish Conference on Computational Social Science"
 sitemap: false
 permalink: /events/sc2s2-2024
 ---

@@ -1,7 +1,6 @@
 ---
 title: "Home"
 layout: homelay
-excerpt: "UUCSSLab"
 sitemap: false
 permalink: /
 ---
