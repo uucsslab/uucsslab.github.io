@@ -3,7 +3,7 @@ layout: project
 shortname: "SPS-MultiNet"
 name: "Multidimensional population-scale network analysis with social applications"
 from: 2021
-to: 2023
+to: 2024
 image: "spsmultinet.png"
 shorttext: "A project about the study of social cohesion at (Swedish) population scale based on multilayer social networks."
 permalink: 'projects/spsmultinet'
