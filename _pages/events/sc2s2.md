@@ -27,8 +27,10 @@ For questions, please contact us at: it-uucss-info@lists.uu.se.
 
 **Day 1: 23 April 2024**
 
-09:00-11:45 Pre-conference training workshop A: Natural Language Processing and Sentiment Analysis
-09:00-11:45 Pre-conference training workshop B: Analysis of Feature-Rich Networks
+09:00-11:45 Pre-conference training workshops (parallel sessions)
+
+Workshop A: Natural Language Processing and Sentiment Analysis
+Workshop B: Analysis of Feature-Rich Networks
 
 12:00-13:00 Lunch
 
@@ -42,11 +44,11 @@ For questions, please contact us at: it-uucss-info@lists.uu.se.
 
 15:00-15:45 Speed dating (with coffee)
 
-15:45-16:30 CIRCUS keynote (To be confirmed)
+15:45-16:30 CIRCUS keynote (Speaker to be confirmed)
 
 **Day 2: 24 April 2024**
 
-09:00-10:00 eSSENCE keynote (To be confirmed)
+09:00-10:00 eSSENCE keynote (Speaker to be confirmed)
 
 10:00-10:15 Break
 
@@ -72,7 +74,7 @@ For questions, please contact us at: it-uucss-info@lists.uu.se.
 
 **Day 3: 25 April 2024**
 
-09:00-11:00 The future of CSS in Sweden / Parallel activity
+09:00-11:00 The future of CSS in Sweden: discussion and action plan / Parallel activity
 
 11:00-12:00 Results & conclusion
 
