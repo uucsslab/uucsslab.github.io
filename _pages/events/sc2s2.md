@@ -21,13 +21,14 @@ Topics of interest include, but are not limited to:
 
 The conference will be held in Uppsala on April 23-25, 2024 (lunch to lunch). To have an inclusive event, there will be no registration fee; coffee breaks, lunches, and a social dinner will be provided at no cost. For PhD students and junior researchers with limited funding for travel and accommodation, there are (limited) resources available. We also plan to organise a pre-conference training workshop on April 23 in the morning, at no cost, based on interest and availability.
 
-To apply for participation, please fill in this [application form](https://doit.medfarm.uu.se/bin/kurt3/kurt/103101) by January 15, 2024. For questions, please contact us at: it-uucss-info@lists.uu.se.
+For questions, please contact us at: it-uucss-info@lists.uu.se.
 
 ## Preliminary programme
 
 **Day 1: 23 April 2024**
 
-09:00-11:45 Pre-conference training workshops
+09:00-11:45 Pre-conference training workshop A: Natural Language Processing and Sentiment Analysis
+09:00-11:45 Pre-conference training workshop B: Analysis of Feature-Rich Networks
 
 12:00-13:00 Lunch
 
@@ -41,11 +42,11 @@ To apply for participation, please fill in this [application form](https://doit.
 
 15:00-15:45 Speed dating (with coffee)
 
-15:45-16:30 Keynote 1
+15:45-16:30 CIRCUS keynote (To be confirmed)
 
 **Day 2: 24 April 2024**
 
-09:00-10:00 eSSENCE keynote
+09:00-10:00 eSSENCE keynote (To be confirmed)
 
 10:00-10:15 Break
 
@@ -65,18 +66,19 @@ To apply for participation, please fill in this [application form](https://doit.
 
 15:15-15:30 Break
 
-15:30-16:30 TBD
+15:30-16:30 Parallel presentation sessions
 
 18:30-21:00 CDHU social dinner at [Katalin](https://www.katalin.com)
 
 **Day 3: 25 April 2024**
 
-09:00-11:00 The future of CSS in Sweden / CSS hackathon
+09:00-11:00 The future of CSS in Sweden / Parallel activity
 
 11:00-12:00 Results & conclusion
 
 12:00-13:00 Lunch
 
+**Note** The main event is planned at the University Main Building. Room numbers and location of the training workshops will be communicated after the programme has been finalised.
 
 ## Sponsors
 
