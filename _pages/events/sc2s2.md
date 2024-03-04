@@ -49,7 +49,7 @@ Workshop B: Analysis of Feature-Rich Networks
 
 **Day 2: 24 April 2024**
 
-09:00-10:00 eSSENCE keynote (Speaker to be confirmed)
+09:00-10:00 eSSENCE keynote: Matti Nelimarkka, Centre for Social Data Science, University of Helsinki
 
 10:00-10:15 Break
 
@@ -61,7 +61,7 @@ Workshop B: Analysis of Feature-Rich Networks
 
 11:45-13:00 Lunch
 
-13:00-14:00 AI4Research keynote: Peter Hedström
+13:00-14:00 AI4Research keynote: Peter Hedström, Institute for Analytical Sociology (IAS), Linköping University
 
 14:00-14:30 Break (Theme: challenges in CSS)
 
