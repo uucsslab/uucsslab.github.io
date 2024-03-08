@@ -112,7 +112,7 @@ The event is supported by:
 - The parallel evolution of online and media immigration discourses (Anastasia Menshikova)
 - The re-mediation of legacy and new media on Twitter: A six-language comparison of the European social media discourse on migration (Anamaria Dutceac Segesten)
         
-### Session S2B (methods: ml) 
+### Session S2B (methods: machine learning) 
   
 - Transformer-based control variates for efficient finite sample statistics for textual data: public hate crime estimation (Hannes Waldetoft)
 - “Interpretable Configurational Regression” (ICR): A Machine-Learning Method Designed for Social Scientists (Christopher Swader)
