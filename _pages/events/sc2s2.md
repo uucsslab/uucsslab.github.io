@@ -45,7 +45,7 @@ Workshop B: Analysis of Feature-Rich Networks
 
 15:05-16:00 Coffee break (with speed dating)
 
-16:00-16:45 Parallel presentation sessions ([S1A](#session-s1a-(news-media-framing)), S1B) 
+16:00-16:45 Parallel presentation sessions ([S1A](#session-s1a-%28news-media-framing%29), S1B) 
 
 **Day 2: 24 April 2024**
 
