@@ -41,11 +41,11 @@ Workshop B: Analysis of Feature-Rich Networks
 
 14:15-14:20 Leg strecher
 
-14:20-15:05 Lightning talks (L1)
+14:20-15:05 Lightning talks (L1 8x5min)
 
 15:05-16:00 Coffee break (with speed dating)
 
-16:00-16:45 Parallel presentation sessions ([S1A](#session-s1a-news-media-framing), S1B) 
+16:00-16:45 Parallel presentation sessions ([S1A](#session-s1a-news-media-framing), [S1B](#session-s1b-methods-visual-political-communication)) 
 
 **Day 2: 24 April 2024**
 
@@ -53,11 +53,11 @@ Workshop B: Analysis of Feature-Rich Networks
 
 10:15-10:45 Coffee Break
 
-10:45-11:25 Parallel presentation sessions (S2A, S2B)
+10:45-11:25 Parallel presentation sessions ([S2A](#session-s2a-migration), [S2B](#session-s2b-methods-ml))
 
 11:25-11:30 Leg stretcher 
 
-11:30-12:10 Parallel presentation sessions (S3A, S3B)
+11:30-12:10 Parallel presentation sessions ([S3A](#session-s3a-social-processes-and-social-media), [S3B](#session-s3b-methods-networks-and-text))
 
 12:10-13:15 Lunch
 
@@ -65,11 +65,11 @@ Workshop B: Analysis of Feature-Rich Networks
 
 14:15-14:20 Leg stretcher    
 
-14:20-14:50 Lightning talks (L2)
+14:20-14:50 Lightning talks (L2 6x5min)
 
 14:50-15:30 Coffee Break (Theme: challenges in CSS)
 
-15:30-16:45 Parallel presentation sessions (S4A, S4B)
+15:30-16:45 Parallel presentation sessions ([S4A](#session-s4a-cognition-and-modelling), [S4B](#session-s4b-inequalities-in-academia))
 
 18:30-21:00 CDHU social dinner at [Nedre Slotts](https://hambergs.se/festvaning-2/nedre-slotts/)
 
