@@ -45,7 +45,7 @@ Workshop B: Analysis of Feature-Rich Networks
 
 15:05-16:00 Coffee break (with speed dating)
 
-16:00-16:45 Parallel presentation sessions ([S1A](#session-s1a-%28news-media-framing%29), S1B) 
+16:00-16:45 Parallel presentation sessions ([S1A](#session-s1a-news-media-framing), S1B) 
 
 **Day 2: 24 April 2024**
 
@@ -107,8 +107,8 @@ The event is supported by:
         
 ### Session S2A (migration) 
    
-The parallel evolution of online and media immigration discourses (Anastasia Menshikova)
-The re-mediation of legacy and new media on Twitter: A six-language comparison of the European social media discourse on migration (Anamaria Dutceac Segesten)
+- The parallel evolution of online and media immigration discourses (Anastasia Menshikova)
+- The re-mediation of legacy and new media on Twitter: A six-language comparison of the European social media discourse on migration (Anamaria Dutceac Segesten)
         
 ### Session S2B (methods: ml) 
   
@@ -117,13 +117,13 @@ The re-mediation of legacy and new media on Twitter: A six-language comparison o
         
 ### Session S3A (social processes and social media)
     
-Social Influence and the Emergence of the Unexpected: How Novel Music Spreads on Spotify (Martin Arvidsson)
-Social judgment in online communities: user vocality and disagreement (Diletta Goglia)
+- Social Influence and the Emergence of the Unexpected: How Novel Music Spreads on Spotify (Martin Arvidsson)
+- Social judgment in online communities: user vocality and disagreement (Diletta Goglia)
         
 ### Session S3B (methods: networks and text)
     
-Clustering social networks with uncertain edges following the possible worlds semantics    Xin    Shen
-Integrating social theory in text analysis: Constrained topic models for social research    Elis    "Elis    Carlberg Larsson"
+- Clustering social networks with uncertain edges following the possible worlds semantics (Xin Shen)
+- Integrating social theory in text analysis: Constrained topic models for social research (Elis Carlberg Larsson)
         
 ### Session S4A (cognition and modelling)
       
