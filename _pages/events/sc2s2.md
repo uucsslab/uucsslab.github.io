@@ -55,7 +55,7 @@ Workshop B: Analysis of Feature-Rich Networks
 
 10:15-10:45 Coffee Break
 
-10:45-11:25 Parallel presentation sessions ([S2A](#session-s2a-migration), [S2B](#session-s2b-methods-ml))
+10:45-11:25 Parallel presentation sessions ([S2A](#session-s2a-migration), [S2B](#session-s2b-methods-machine-learning))
 
 11:25-11:30 Leg stretcher 
 
