@@ -19,7 +19,9 @@ Topics of interest include, but are not limited to:
  - Digital sources of social data (APIs, population-scale data, corpora, image data, audio data, ...).
  - Ethical, legal, and societal aspects of CSS.
 
-The conference will be held in Uppsala on April 23-25, 2024 (lunch to lunch). To have an inclusive event, there will be no registration fee; coffee breaks, lunches, and a social dinner will be provided at no cost. Some funding for travel and accommodation is also available upon request. The pre-conference training workshops are also provided at no cost, but places are limited.
+The conference will be held in Uppsala on April 23-25, 2024 (lunch to lunch). To have an inclusive event, there will be no registration fee; coffee breaks, lunches, and a social dinner will be provided at no cost. Some funding for travel and accommodation is also available.
+
+**Registration is now closed.**
 
 For questions, please contact us at: it-uucss-info@lists.uu.se.
 
