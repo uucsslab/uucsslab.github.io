@@ -39,7 +39,7 @@ Workshop B: Analysis of Feature-Rich Networks
 
 13:00-13:15 Conference opening
 
-13:15-14:15 CIRCUS keynote (Elisa Omodei, Department of Network and Data Science, Central European University)
+13:15-14:15 CIRCUS keynote: Elisa Omodei, Department of Network and Data Science, Central European University
 
 14:15-14:20 Leg strecher
 
