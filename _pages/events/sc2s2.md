@@ -21,6 +21,8 @@ Topics of interest include, but are not limited to:
 
 The conference will be held in Uppsala on April 23-25, 2024 (lunch to lunch). To have an inclusive event, there will be no registration fee; coffee breaks, lunches, and a social dinner will be provided at no cost. Some funding for travel and accommodation is also available.
 
+Venue: The main conference is located at the [University Main Building](https://www.uu.se/en/about-uu/history/historic-buildings-and-settings/history-of-the-university-main-building).
+
 **Registration is now closed.**
 
 For questions, please contact us at: it-uucss-info@lists.uu.se.
@@ -35,17 +37,17 @@ Workshop A: Natural Language Processing and Sentiment Analysis
 
 Workshop B: Analysis of Feature-Rich Networks
 
-12:00-13:00 Lunch
+12:00-13:00 Lunch (sandwiches outside IV)
 
-13:00-13:15 Conference opening
+13:00-13:15 Conference opening (Room IV)
 
-13:15-14:15 CIRCUS keynote: Elisa Omodei, Department of Network and Data Science, Central European University
+13:15-14:15 CIRCUS keynote: Elisa Omodei, Department of Network and Data Science, Central European University (Room IV)
 
 14:15-14:20 Leg strecher
 
-14:20-15:05 Lightning talks (L1 8x5min)
+14:20-15:05 Lightning talks (Room IV, L1 8x5min)
 
-15:05-16:00 Coffee break (with speed dating)
+15:05-16:00 Coffee break with speed dating (outside Room IV)
 
 16:00-16:45 Parallel presentation sessions ([S1A](#session-s1a-news-media-framing), [S1B](#session-s1b-methods-visual-political-communication)) 
 
@@ -79,7 +81,7 @@ Workshop B: Analysis of Feature-Rich Networks
 
 09:00-10:00 The future of CSS in Sweden: discussion in small groups (with coffee)
 
-10:00-11:00 The future of CSS in Sweden: summary and action plan
+10:00-11:00 The future of CSS in Sweden: summary and action plan (Room IX)
 
 11:00-12:00 Networking
 
@@ -97,43 +99,43 @@ The event is supported by:
 
 ## Presentations
 
-### Session S1A (news media framing)         
+### Session S1A (Room VIII, news media framing)         
                          
 - Increasing numbers, an increasing threat? Using word embeddings to study the relationship between threat-based stereotypes and out-group size (Rojan Karakaya)
 - News framing: How tweets only partially reflect the content of journal articles    (Davide Vega)
         
-### Session S1B (methods: visual political communication)     
+### Session S1B (Room IV, methods: visual political communication)     
 
 - Visual Structural Topic Modeling for the Analysis of Political Communication: A Deep Generative Approach (Matias Piqueras)
 - Political Visual Communication across Social Media: What are Computer Vision Tools Useful For? (Michael Bossetta)
         
-### Session S2A (migration) 
+### Session S2A (Room VIII, migration) 
    
 - The parallel evolution of online and media immigration discourses (Anastasia Menshikova)
 - The re-mediation of legacy and new media on Twitter: A six-language comparison of the European social media discourse on migration (Anamaria Dutceac Segesten)
         
-### Session S2B (methods: machine learning) 
+### Session S2B (Room I, methods: machine learning) 
   
 - Transformer-based control variates for efficient finite sample statistics for textual data: public hate crime estimation (Hannes Waldetoft)
 - “Interpretable Configurational Regression” (ICR): A Machine-Learning Method Designed for Social Scientists (Christopher Swader)
         
-### Session S3A (social processes and social media)
+### Session S3A (Room I, social processes and social media)
     
 - Social Influence and the Emergence of the Unexpected: How Novel Music Spreads on Spotify (Martin Arvidsson)
 - Social judgment in online communities: user vocality and disagreement (Diletta Goglia)
         
-### Session S3B (methods: networks and text)
+### Session S3B (Room VIII, methods: networks and text)
     
 - Clustering social networks with uncertain edges following the possible worlds semantics (Xin Shen)
 - Integrating social theory in text analysis: Constrained topic models for social research (Elis Carlberg Larsson)
         
-### Session S4A (cognition and modelling)
+### Session S4A (Room I, cognition and modelling)
       
 - Modelling curiosity and intrinsically motivated knowledge acquisition (Felix Thiel)
 - Cognitive Compression and Social Network Mobilization (Hui Sun)
 - Towards Representation and Reasoning of Organisational Routines (David Johnson)
         
-### Session S4B (inequalities in academia)
+### Session S4B (Room VIII, inequalities in academia)
  
 - Applying Intersectional MAIHDA to Studying Social Inequalities in Academic Achievement (Anna Soloveva)
 - Social and cultural closure in awarding the Nobel Prize in Physics (Jacob Habinek)
