@@ -41,13 +41,13 @@ For questions, please contact us at: it-uucss-info@lists.uu.se.
 
 **13:00-13:15** Conference opening (Room IV)
 
-**13:15-14:15** [CIRCUS keynote](#circus-keynote): Elisa Omodei, Department of Network and Data Science, Central European University (Room IV)
+**13:15-14:15** [CIRCUS keynote](#circus-keynote): Elisa Omodei, Department of Network and Data Science, Central European University
 
 **14:15-14:20** Leg stretcher
 
-**14:20-15:05** Lightning talks (Room IV, L1 8x5min)
+**14:20-15:05** Lightning talks (L1 8x5min)
 
-**15:05-16:00** Coffee break with speed dating (outside Room IV)
+**15:05-16:00** Coffee break with speed dating
 
 **16:00-16:45** Parallel presentation sessions ([S1A](#session-s1a-social-processes-and-social-media), [S1B](#session-s1b-methods-visual-political-communication)) 
 
