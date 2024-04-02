@@ -99,7 +99,7 @@ The event is supported by:
 
 ### CIRCUS keynote
 
-**Speaker:** Elisa Omodei, Department of Network and Data Science, Central European University (Room IV)
+**Speaker:** Elisa Omodei, Department of Network and Data Science, Central European University
 
 **Title:** Computational methods for the Sustainable Development Goals: the case of food security
 
