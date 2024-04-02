@@ -21,7 +21,7 @@ Topics of interest include, but are not limited to:
 
 The conference will be held in Uppsala on April 23-25, 2024 (lunch to lunch). To have an inclusive event, there will be no registration fee; coffee breaks, lunches, and a social dinner will be provided at no cost. Some funding for travel and accommodation is also available.
 
-Venue: The conference and pre-conference events are located at the [University Main Building](https://www.uu.se/en/about-uu/history/historic-buildings-and-settings/history-of-the-university-main-building), at Blåsenhus, at the Ångström laboratory, and at the centre for Digital Humanities and Social Sciences. Please check the programme below for the details.
+Venue: The conference and pre-conference events are located at the [University Main Building](https://use.mazemap.com/#v=1&config=uu&campusid=49&zlevel=1&center=17.629568,59.857616&zoom=18&sharepoitype=poi&sharepoi=1000459992), at [Blåsenhus](https://use.mazemap.com/#v=1&config=uu&campusid=49&zlevel=1&center=17.630285,59.851144&zoom=18&sharepoitype=poi&sharepoi=1000459985), at the [Ångström laboratory](https://use.mazemap.com/#v=1&config=uu&campusid=49&zlevel=1&center=17.647253,59.838334&zoom=18&sharepoitype=poi&sharepoi=1000459981), and at [Engelska Parken](https://use.mazemap.com/#v=1&config=uu&campusid=49&zlevel=1&center=17.627123,59.853571&zoom=18&sharepoitype=poi&sharepoi=1000459979). Please check the programme below for the details.
 
 **Registration is now closed.**
 
@@ -31,19 +31,19 @@ For questions, please contact us at: it-uucss-info@lists.uu.se.
 
 ### Pre-conference training workshops (23 April 2024)
 
-**09:00-11:45** Workshop A: Natural Language Processing and Sentiment Analysis (Location: Centre for Digital Humanities and Social Sciences)
+**09:00-11:45** Workshop A: Natural Language Processing and Sentiment Analysis (Location: Centre for Digital Humanities and Social Sciences, Engelska Parken)
 
 **09:00-11:45** Workshop B: Analysis of Feature-Rich Networks (Location: Room 101172, Ångström laboratory)
 
 ### Day 1 (23 April 2024, University Main Building)
 
-**12:00-13:00** Lunch (sandwiches, outside Room IV)
+**12:00-13:00** Lunch (sandwiches) & Registration (outside Room IV)
 
 **13:00-13:15** Conference opening (Room IV)
 
 **13:15-14:15** [CIRCUS keynote](#circus-keynote): Elisa Omodei, Department of Network and Data Science, Central European University (Room IV)
 
-**14:15-14:20** Leg strecher
+**14:15-14:20** Leg stretcher
 
 **14:20-15:05** Lightning talks (Room IV, L1 8x5min)
 
@@ -73,7 +73,7 @@ For questions, please contact us at: it-uucss-info@lists.uu.se.
 
 **14:50-15:30** Coffee Break (Theme: challenges in CSS)
 
-**15:30-16:45** Parallel presentation sessions ([S4A](#session-s4b-inequalities-in-academia), [S4B](#session-s4a-cognition-and-modelling))
+**15:30-16:45** Parallel presentation sessions ([S4A](#session-s4a-inequalities-in-academia), [S4B](#session-s4b-cognition-and-modelling))
 
 **18:30-21:00** CDHU social dinner at [Nedre Slotts](https://hambergs.se/festvaning-2/nedre-slotts/)
 
