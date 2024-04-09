@@ -77,11 +77,11 @@ For questions, please contact us at: it-uucss-info@lists.uu.se.
 
 **18:30-21:00** CDHU social dinner at [Nedre Slotts](https://hambergs.se/festvaning-2/nedre-slotts/)
 
-### Day 3 (25 April 2024, venue TBC)
+### Day 3 (25 April 2024, University Main Building)
 
-**09:00-10:00** The future of CSS in Sweden: discussion in small groups (with coffee)
+**09:00-10:00** The future of CSS in Sweden: discussion in small groups (Café Alma)
 
-**10:00-11:00** The future of CSS in Sweden: summary and action plan
+**10:00-11:00** The future of CSS in Sweden: summary and action plan (Room XI)
 
 **11:00-12:00** Networking
 
@@ -124,6 +124,8 @@ The event is supported by:
 **Title:** On CSS and the Future of Sociology
 
 **Location:** Eva Netzelius Hall, Blåsenhus
+
+**Abstract:** Sociology is a broad social science discipline that embraces a range of different theoretical and methodological traditions. One important common theoretical denominator in much of sociology dating all the way back to the founders of the discipline such as Max Weber, has been the focus on social interactions and their importance for explaining various social phenomena. As noted by Robert Merton and many others, however, there often has been a problematic gap between sociological theory and empirical sociological research. While sociological theories have emphasised the importance of social interactions, empirical research typically has been based on types of data, such as survey data, that typically includes no information on whom the individuals interact with or the broader social networks in which they are embedded. This talk focuses on the extent to which the type of large-scale data and computationally intensive methods of computational social science can help to close the gap between theory and research. By providing relevant analytical tools to rigorously address sociology’s core questions, it is argued that computational social science has the potential to advance sociology in a similar way that the introduction of econometrics advanced economics during the last half century.    
 
 ## Parallel presentation sessions
 
