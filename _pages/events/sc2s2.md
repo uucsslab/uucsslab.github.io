@@ -157,19 +157,19 @@ The event is supported by:
 - Transformer-based control variates for efficient finite sample statistics for textual data: public hate crime estimation (Hannes Waldetoft)
 - “Interpretable Configurational Regression” (ICR): A Machine-Learning Method Designed for Social Scientists (Christopher Swader)
         
-### Session S3A (news media framing)         
+### Session S3A (news and social media)         
                  
 **Location:** Eva Netzelius Hall, Blåsenhus
                          
 - Increasing numbers, an increasing threat? Using word embeddings to study the relationship between threat-based stereotypes and out-group size (Rojan Karakaya)
-- News framing: How tweets only partially reflect the content of journal articles    (Davide Vega)
+- Studying online polarisation during #COP meetings with multilayer networks and topic modelling (Alessio Gandelli)
         
-### Session S3B (methods: networks and text)
+### Session S3B (methods: uncertainty)
     
 **Location:** Room 11:131, Blåsenhus
 
 - Clustering social networks with uncertain edges following the possible worlds semantics (Xin Shen)
-- Integrating social theory in text analysis: Constrained topic models for social research (Elis Carlberg Larsson)
+- Word embedding uncertainty estimation (Väinö Yrjänäinen)
  
 ### Session S4A (inequalities in academia)
 
