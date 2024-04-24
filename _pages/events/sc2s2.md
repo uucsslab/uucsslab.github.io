@@ -75,7 +75,7 @@ For questions, please contact us at: it-uucss-info@lists.uu.se.
 
 **15:30-17:00** Parallel presentation sessions  ([S4A](#session-s4a-organisations-and-academia))
 
-**18:30-21:00** CDHU social dinner at [Nedre Slotts](https://hambergs.se/festvaning-2/nedre-slotts/) ([map](https://maps.app.goo.gl/7qn3LxCq5EpRVmWX6)
+**18:30-21:00** CDHU social dinner at [Nedre Slotts](https://hambergs.se/festvaning-2/nedre-slotts/) ([map](https://maps.app.goo.gl/7qn3LxCq5EpRVmWX6))
 
 ### Day 3 (25 April 2024, University Main Building)
 
@@ -87,7 +87,7 @@ For questions, please contact us at: it-uucss-info@lists.uu.se.
 
 **11:00-12:00** Networking
 
-**12:00-13:00** Lunch at [Stationen](https://www.stationen.se/) ([map](https://maps.app.goo.gl/49ATkWxA8bpg9CQy9)
+**12:00-13:00** Lunch at [Stationen](https://www.stationen.se/) ([map](https://maps.app.goo.gl/49ATkWxA8bpg9CQy9))
 
 
 ## Sponsors
