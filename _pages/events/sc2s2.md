@@ -75,17 +75,20 @@ For questions, please contact us at: it-uucss-info@lists.uu.se.
 
 **15:30-17:00** Parallel presentation sessions  ([S4A](#session-s4a-organisations-and-academia))
 
-**18:30-21:00** CDHU social dinner at [Nedre Slotts](https://hambergs.se/festvaning-2/nedre-slotts/)
+**18:30-21:00** CDHU social dinner at [Nedre Slotts](https://hambergs.se/festvaning-2/nedre-slotts/) ([map](https://maps.app.goo.gl/7qn3LxCq5EpRVmWX6)
 
 ### Day 3 (25 April 2024, University Main Building)
 
-**09:00-10:00** The future of CSS in Sweden: discussion in small groups (Café Alma)
+**09:00-09:10** The future of CSS in Sweden: preparation (Room XI)
 
-**10:00-11:00** The future of CSS in Sweden: summary and action plan (Room XI)
+**09:10-10:10** The future of CSS in Sweden: discussion in small groups, with coffee (Café Alma)
+
+**10:10-11:00** The future of CSS in Sweden: summary and action plan (Room XI)
 
 **11:00-12:00** Networking
 
-**12:00-13:00** Lunch
+**12:00-13:00** Lunch at [Stationen](https://www.stationen.se/) ([map](https://maps.app.goo.gl/49ATkWxA8bpg9CQy9)
+
 
 ## Sponsors
 
