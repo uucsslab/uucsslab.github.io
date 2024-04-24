@@ -132,6 +132,7 @@ The event is supported by:
 ### Session S1A (social processes and social media)
 
 **Location:** Room VIII, University main building
+**Chair:** Davide Vega
 
 - Social Influence and the Emergence of the Unexpected: How Novel Music Spreads on Spotify (Martin Arvidsson)
 - Social judgment in online communities: user vocality and disagreement (Diletta Goglia)
@@ -139,6 +140,7 @@ The event is supported by:
 ### Session S1B (methods: visual political communication)     
 
 **Location:** Room IV, University main building
+**Chair:** Alexandra Segerberg
 
 - Political Visual Communication across Social Media: What are Computer Vision Tools Useful For? (Michael Bossetta)
 - Visual Structural Topic Modeling for the Analysis of Political Communication: A Deep Generative Approach (Matias Piqueras)
@@ -146,6 +148,7 @@ The event is supported by:
 ### Session S2A (social media) 
    
 **Location:** Eva Netzelius Hall, Blåsenhus
+**Chair:** Alexandra Segerberg
 
 - The re-mediation of legacy and new media on Twitter: A six-language comparison of the European social media discourse on migration (Anamaria Dutceac Segesten)
 - Studying online polarisation during #COP meetings with multilayer networks and topic modelling (Alessio Gandelli)
@@ -153,6 +156,7 @@ The event is supported by:
 ### Session S2B (methods: machine learning) 
   
 **Location:** Room 11:131, Blåsenhus
+**Chair:** Måns Magnusson
   
 - Transformer-based control variates for efficient finite sample statistics for textual data: public hate crime estimation (Hannes Waldetoft)
 - “Interpretable Configurational Regression” (ICR): A Machine-Learning Method Designed for Social Scientists (Christopher Swader)
@@ -160,6 +164,7 @@ The event is supported by:
 ### Session S3A (word embeddings)         
                  
 **Location:** Eva Netzelius Hall, Blåsenhus
+**Chair:** Sara Stymne
                          
 - Increasing numbers, an increasing threat? Using word embeddings to study the relationship between threat-based stereotypes and out-group size (Rojan Karakaya)
 - Word embedding uncertainty estimation (Väinö Yrjänäinen)
@@ -168,6 +173,7 @@ The event is supported by:
 ### Session S3B (knowledge and uncertainty)
     
 **Location:** Room 11:131, Blåsenhus
+**Chair:** Davide Vega
 
 - Modelling curiosity and intrinsically motivated knowledge acquisition (Felix Thiel)
 - Social networks with uncertain edges (Xin Shen)
@@ -175,6 +181,7 @@ The event is supported by:
 ### Session S4A (organisations and academia)
 
 **Location:** Eva Netzelius Hall, Blåsenhus
+**Chair:** Mikael Bask
 
 - Towards Representation and Reasoning of Organisational Routines (David Johnson)
 - Applying Intersectional MAIHDA to Studying Social Inequalities in Academic Achievement (Anna Soloveva)
