@@ -113,7 +113,7 @@ The event is supported by:
 
 **Title:** Theory, validity and reliability as the new frontier of computational social science?
 
-**Location:** Eva Netzelius Hall, Blåsenhus
+**Location:** [Eva Netzelius Hall](https://link.mazemap.com/4s4fIN7w), Blåsenhus
 
 **Abstract:** The field of computational social science is experiencing a period of robust growth: scholarly communities are flourishing, accompanied by a proliferation of scholarly articles and books, and the emergence of intriguing applications of sophisticated methodologies to examine societal phenomena. At the same time, there appears to be a tendency to overlook social theory within computational social science. Nonetheless, social theory distinguishes computational social science from purely computational disciplines such as data science. Its cruciality has been underscored in numerous scholarly works, but still there seems to be less clear idea what is the role of social theory in computational social science. We shall investigate this discussion and open up the question what is theory and how it helps us to do even more awesome work. Similarly, validity and reliability represent cornerstone principles within the realm of social inquiry. Nevertheless, it seems that computational social science sometimes takes shortcuts and for example a discussion between critical algorithm studies - highlighting various issues with these methods - and computational social science - using said methods - seems less common. I will discuss potential implications of such tendencies and prompts reflections on these.
 
@@ -123,7 +123,7 @@ The event is supported by:
 
 **Title:** On CSS and the Future of Sociology
 
-**Location:** Eva Netzelius Hall, Blåsenhus
+**Location:** [Eva Netzelius Hall](https://link.mazemap.com/4s4fIN7w), Blåsenhus
 
 **Abstract:** Sociology is a broad social science discipline that embraces a range of different theoretical and methodological traditions. One important common theoretical denominator in much of sociology dating all the way back to the founders of the discipline such as Max Weber, has been the focus on social interactions and their importance for explaining various social phenomena. As noted by Robert Merton and many others, however, there often has been a problematic gap between sociological theory and empirical sociological research. While sociological theories have emphasised the importance of social interactions, empirical research typically has been based on types of data, such as survey data, that typically includes no information on whom the individuals interact with or the broader social networks in which they are embedded. This talk focuses on the extent to which the type of large-scale data and computationally intensive methods of computational social science can help to close the gap between theory and research. By providing relevant analytical tools to rigorously address sociology’s core questions, it is argued that computational social science has the potential to advance sociology in a similar way that the introduction of econometrics advanced economics during the last half century.    
 
@@ -149,7 +149,7 @@ The event is supported by:
 
 ### Session S2A (social media) 
    
-**Location:** Eva Netzelius Hall, Blåsenhus
+**Location:** [Eva Netzelius Hall](https://link.mazemap.com/4s4fIN7w), Blåsenhus
 
 **Chair:** Alexandra Segerberg
 
@@ -167,7 +167,7 @@ The event is supported by:
         
 ### Session S3A (word embeddings)         
                  
-**Location:** Eva Netzelius Hall, Blåsenhus
+**Location:** [Eva Netzelius Hall](https://link.mazemap.com/4s4fIN7w), Blåsenhus
 
 **Chair:** Sara Stymne
                          
@@ -186,13 +186,15 @@ The event is supported by:
   
 ### Session S4A (organisations and academia)
 
-**Location:** Eva Netzelius Hall, Blåsenhus
+**Location:** [Eva Netzelius Hall](https://link.mazemap.com/4s4fIN7w), Blåsenhus
 
 **Chair:** Mikael Bask
 
 - Towards Representation and Reasoning of Organisational Routines (David Johnson)
 - Applying Intersectional MAIHDA to Studying Social Inequalities in Academic Achievement (Anna Soloveva)
-- Short break
+
+Leg stretcher
+
 - Social and cultural closure in awarding the Nobel Prize in Physics (Jacob Habinek)
 - Skill, Status and the Matthew Effect (Mikael Bask)
 
