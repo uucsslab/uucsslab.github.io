@@ -59,7 +59,7 @@ For questions, please contact us at: it-uucss-info@lists.uu.se.
 
 **10:45-11:25** Parallel presentation sessions ([S2A](#session-s2a-social-media), [S2B](#session-s2b-methods-machine-learning))
 
-**11:25-11:30** Leg stretcher 
+**11:25-11:30** Leg stretcher
 
 **11:30-12:10** Parallel presentation sessions ([S3A](#session-s3a-word-embeddings), [S3B](#session-s3b-knowledge-and-uncertainty))
 
@@ -73,7 +73,7 @@ For questions, please contact us at: it-uucss-info@lists.uu.se.
 
 **14:50-15:30** Coffee Break (Theme: challenges in CSS)
 
-**15:30-17:00** Parallel presentation sessions 1:25 ([S4A](#session-s4a-organisations-and-academia))
+**15:30-17:00** Parallel presentation sessions  ([S4A](#session-s4a-organisations-and-academia))
 
 **18:30-21:00** CDHU social dinner at [Nedre Slotts](https://hambergs.se/festvaning-2/nedre-slotts/)
 
