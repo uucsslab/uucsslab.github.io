@@ -53,7 +53,7 @@ For questions, please contact us at: it-uucss-info@lists.uu.se.
 
 ### Day 2 (24 April 2024, Blåsenhus)
 
-**09:15-10:15** [eSSENCE keynote](#essence-keynote): Matti Nelimarkka, Centre for Social Data Science, University of Helsinki
+**09:15-10:15** [eSSENCE keynote](#essence-keynote): Matti Nelimarkka, Centre for Social Data Science, University of Helsinki ([Slides](https://helsinkifi-my.sharepoint.com/:p:/g/personal/mnelimar_ad_helsinki_fi/ERjCGX_YxwlCoz0wY6nqRJUBjTW4loNRI-clDfxyNWU9dw?e=E2X1bj))
 
 **10:15-10:45** Coffee Break
 
@@ -114,7 +114,7 @@ The event is supported by:
 
 **Speaker:** Matti Nelimarkka, Centre for Social Data Science, University of Helsinki
 
-**Title:** Theory, validity and reliability as the new frontier of computational social science?
+**Title:** Theory, validity and reliability as the new frontier of computational social science? ([Slides](https://helsinkifi-my.sharepoint.com/:p:/g/personal/mnelimar_ad_helsinki_fi/ERjCGX_YxwlCoz0wY6nqRJUBjTW4loNRI-clDfxyNWU9dw?e=E2X1bj))
 
 **Location:** [Eva Netzelius Hall](https://link.mazemap.com/4s4fIN7w), Blåsenhus
 
