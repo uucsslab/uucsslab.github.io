@@ -27,7 +27,7 @@ Venue: The conference and pre-conference events are located at the [University M
 
 For questions, please contact us at: it-uucss-info@lists.uu.se.
 
-## Preliminary programme
+## Programme
 
 ### Pre-conference training workshops (23 April 2024)
 
@@ -63,7 +63,7 @@ For questions, please contact us at: it-uucss-info@lists.uu.se.
 
 **11:30-12:10** Parallel presentation sessions ([S3A](#session-s3a-word-embeddings), [S3B](#session-s3b-knowledge-and-uncertainty))
 
-**12:10-13:15** Lunch at [Hotel von Kraemer](https://hotelvonkraemer.se/restaurang/)
+**12:10-13:15** Lunch at [Hotel von Kraemer](https://hotelvonkraemer.se/restaurang/) ([map](https://maps.app.goo.gl/ory82W2V9zTseByz6))
 
 **13:15-14:15** [AI4Research keynote](#ai4r-keynote): Peter Hedström, Institute for Analytical Sociology (IAS), Linköping University
 
@@ -132,6 +132,7 @@ The event is supported by:
 ### Session S1A (social processes and social media)
 
 **Location:** Room VIII, University main building
+
 **Chair:** Davide Vega
 
 - Social Influence and the Emergence of the Unexpected: How Novel Music Spreads on Spotify (Martin Arvidsson)
@@ -140,6 +141,7 @@ The event is supported by:
 ### Session S1B (methods: visual political communication)     
 
 **Location:** Room IV, University main building
+
 **Chair:** Alexandra Segerberg
 
 - Political Visual Communication across Social Media: What are Computer Vision Tools Useful For? (Michael Bossetta)
@@ -148,6 +150,7 @@ The event is supported by:
 ### Session S2A (social media) 
    
 **Location:** Eva Netzelius Hall, Blåsenhus
+
 **Chair:** Alexandra Segerberg
 
 - The re-mediation of legacy and new media on Twitter: A six-language comparison of the European social media discourse on migration (Anamaria Dutceac Segesten)
@@ -155,7 +158,8 @@ The event is supported by:
         
 ### Session S2B (methods: machine learning) 
   
-**Location:** Room 11:131, Blåsenhus
+**Location:** [Room 11:131](https://link.mazemap.com/HfMSkRsc), Blåsenhus
+
 **Chair:** Måns Magnusson
   
 - Transformer-based control variates for efficient finite sample statistics for textual data: public hate crime estimation (Hannes Waldetoft)
@@ -164,6 +168,7 @@ The event is supported by:
 ### Session S3A (word embeddings)         
                  
 **Location:** Eva Netzelius Hall, Blåsenhus
+
 **Chair:** Sara Stymne
                          
 - Increasing numbers, an increasing threat? Using word embeddings to study the relationship between threat-based stereotypes and out-group size (Rojan Karakaya)
@@ -172,7 +177,8 @@ The event is supported by:
         
 ### Session S3B (knowledge and uncertainty)
     
-**Location:** Room 11:131, Blåsenhus
+**Location:** [Room 11:131](https://link.mazemap.com/HfMSkRsc), Blåsenhus
+
 **Chair:** Davide Vega
 
 - Modelling curiosity and intrinsically motivated knowledge acquisition (Felix Thiel)
@@ -181,6 +187,7 @@ The event is supported by:
 ### Session S4A (organisations and academia)
 
 **Location:** Eva Netzelius Hall, Blåsenhus
+
 **Chair:** Mikael Bask
 
 - Towards Representation and Reasoning of Organisational Routines (David Johnson)
