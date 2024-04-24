@@ -63,7 +63,7 @@ For questions, please contact us at: it-uucss-info@lists.uu.se.
 
 **11:30-12:10** Parallel presentation sessions ([S3A](#session-s3a-news-media-framing), [S3B](#session-s3b-methods-networks-and-text))
 
-**12:10-13:15** Lunch
+**12:10-13:15** Lunch at [Hotel von Kraemer](https://hotelvonkraemer.se/restaurang/)
 
 **13:15-14:15** [AI4Research keynote](#ai4r-keynote): Peter Hedström, Institute for Analytical Sociology (IAS), Linköping University
 
@@ -143,12 +143,12 @@ The event is supported by:
 - Political Visual Communication across Social Media: What are Computer Vision Tools Useful For? (Michael Bossetta)
 - Visual Structural Topic Modeling for the Analysis of Political Communication: A Deep Generative Approach (Matias Piqueras)
 
-### Session S2A (migration) 
+### Session S2A (social media) 
    
 **Location:** Eva Netzelius Hall, Blåsenhus
 
-- The parallel evolution of online and media immigration discourses (Anastasia Menshikova)
 - The re-mediation of legacy and new media on Twitter: A six-language comparison of the European social media discourse on migration (Anamaria Dutceac Segesten)
+- Studying online polarisation during #COP meetings with multilayer networks and topic modelling (Alessio Gandelli)
         
 ### Session S2B (methods: machine learning) 
   
@@ -157,34 +157,28 @@ The event is supported by:
 - Transformer-based control variates for efficient finite sample statistics for textual data: public hate crime estimation (Hannes Waldetoft)
 - “Interpretable Configurational Regression” (ICR): A Machine-Learning Method Designed for Social Scientists (Christopher Swader)
         
-### Session S3A (news and social media)         
+### Session S3A (word embeddings)         
                  
 **Location:** Eva Netzelius Hall, Blåsenhus
                          
 - Increasing numbers, an increasing threat? Using word embeddings to study the relationship between threat-based stereotypes and out-group size (Rojan Karakaya)
-- Studying online polarisation during #COP meetings with multilayer networks and topic modelling (Alessio Gandelli)
+- Word embedding uncertainty estimation (Väinö Yrjänäinen)
+
         
-### Session S3B (methods: uncertainty)
+### Session S3B (knowledge and uncertainty)
     
 **Location:** Room 11:131, Blåsenhus
 
-- Clustering social networks with uncertain edges following the possible worlds semantics (Xin Shen)
-- Word embedding uncertainty estimation (Väinö Yrjänäinen)
- 
-### Session S4A (inequalities in academia)
+- Modelling curiosity and intrinsically motivated knowledge acquisition (Felix Thiel)
+- Social networks with uncertain edges (Xin Shen)
+  
+### Session S4A (organisations and academia)
 
 **Location:** Eva Netzelius Hall, Blåsenhus
 
+- Towards Representation and Reasoning of Organisational Routines (David Johnson)
 - Applying Intersectional MAIHDA to Studying Social Inequalities in Academic Achievement (Anna Soloveva)
+- Short break
 - Social and cultural closure in awarding the Nobel Prize in Physics (Jacob Habinek)
 - Skill, Status and the Matthew Effect (Mikael Bask)
-
-### Session S4B (cognition and modelling)
-      
-**Location:** Room 11:131, Blåsenhus
-    
-- Modelling curiosity and intrinsically motivated knowledge acquisition (Felix Thiel)
-- Cognitive Compression and Social Network Mobilization (Hui Sun)
-- Towards Representation and Reasoning of Organisational Routines (David Johnson)
-        
 
