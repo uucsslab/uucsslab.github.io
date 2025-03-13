@@ -7,9 +7,10 @@ permalink: /events/seminars-2025/aiello
 
 # CS4 seminar: Nina N. Tahmasebi
 
-**May 7, 2025, 13:30-15:00**
-**Location:** Old observatory, Uppsala University
+**May 7, 2025, 13:30-15:00**  
+**Location:** Old observatory, Uppsala University  
 **Registration:** a link will be posted here two weeks before the seminar
+
 **Speaker:** Nina N. Tahmasebi, University of Gothenburg
 
 **Title:** Change is Key! And the study of cultural and societal change

@@ -7,9 +7,10 @@ permalink: /events/seminars-2025/aiello
 
 # CS4 seminar: Luca Maria Aiello and Arianna Pera
 
-**May 7, 2025, 13:30-15:00**
-**Location:** Old observatory, Uppsala University
+**May 7, 2025, 13:30-15:00**  
+**Location:** Old observatory, Uppsala University  
 **Registration:** a link will be posted here two weeks before the seminar
+
 **Speakers:** Luca Maria Aiello and Arianna Pera, IT University Copenhagen
 
 **Title:** The Language of Collective Action: Building Solutions in the Digital Era

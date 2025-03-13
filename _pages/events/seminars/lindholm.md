@@ -7,12 +7,13 @@ permalink: /events/seminars-2025/lindholm
 
 # CS4 seminar: Johan Lindholm
 
-**May 7, 2025, 13:30-15:00**
-**Location:** Old observatory, Uppsala University
-**Registration:** a link will be posted here two weeks before the seminar
-**Speaker:** Johan Lindholm, Umeå University
+**May 7, 2025, 13:30-15:00**  
+**Location:** Old observatory, Uppsala University  
+**Registration:** a link will be posted here two weeks before the seminar  
 
-**Title:** Are Computational Methods Revolutionising Legal Research?
+**Speaker:** Johan Lindholm, Umeå University  
+
+**Title:** Are Computational Methods Revolutionising Legal Research?  
 
 **Abstract:** Computational methods are offering new ways to analyze legal texts, predict case outcomes, and uncover patterns in judicial behavior. In his presentation Johan Lindholm will explores how tools such as natural language processing, machine learning, and network analysis are being used to study law and legal institutions, highlighting both their potential and their limitations. By examining real-world applications and ongoing developments, we will discuss whether these methods truly represent a paradigm shift in legal research or if they remain complementary to traditional doctrinal approaches.
 
