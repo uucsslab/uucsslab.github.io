@@ -30,4 +30,4 @@ Title, abstract and registration links will be posted latest two weeks before ea
 **Location:** Old observatory, Uppsala University  
 **Speaker:** Nina Tahmasebi, University of Gothenburg  
 **Title:** Change is Key! And the study of cultural and societal change  
-[More details and registration](https://uucsslab.github.io/events/seminars-2025/Tahmasebi)  
+[More details and registration](https://uucsslab.github.io/events/seminars-2025/tahmasebi)  
