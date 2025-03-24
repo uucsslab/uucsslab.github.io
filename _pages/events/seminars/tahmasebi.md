@@ -2,7 +2,7 @@
 title: "CSS Seminar Series"
 layout: default
 sitemap: false
-permalink: /events/seminars-2025/aiello
+permalink: /events/seminars-2025/tahmasebi
 ---
 
 # CS4 seminar: Nina N. Tahmasebi
