@@ -7,7 +7,7 @@ permalink: /events/seminars-2025
 
 # Computational Social Science Seminar Series
 
-Title, abstract and registration links will be posted latest two weeks before each talk.
+The objective of this series is to inspire researchers at Uppsala University interested in using social science computational methods, and to establish new research connections and collaborations. The seminars are funded by [eSSENCE: the e-Science collaboration](https://www.essenceofescience.se/w/es/).
 
 **April 7, 2025, 13:30-15:00**  
 **Location:** Old observatory, Uppsala University  
