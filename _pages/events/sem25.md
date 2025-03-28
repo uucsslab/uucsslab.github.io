@@ -19,15 +19,16 @@ The objective of this series is to inspire researchers at Uppsala University int
 **Location:** Old observatory, Uppsala University  
 **Speaker:** Johan Lindholm, Umeå University  
 **Title:** Are Computational Methods Revolutionising Legal Research?  
-[More details and registration](https://uucsslab.github.io/events/seminars-2025/lindholm)  
+[More details](https://uucsslab.github.io/events/seminars-2025/lindholm)  
 
 **May 13, 2025, 13:30-15:00**  
 **Location:** Old observatory, Uppsala University  
 **Speaker:** Adel Daoud, Linköping University  
-**Title:** TBD  
+**Title:** The power of the hybrid-statistical-modeling culture: exemplified by combining earth-observation satellites and deep learning to analyze health and living conditions in Africa
+[More details](https://uucsslab.github.io/events/seminars-2025/daoud) 
 
 **May 23, 2025, 13:30-15:00**  
 **Location:** Old observatory, Uppsala University  
 **Speaker:** Nina Tahmasebi, University of Gothenburg  
 **Title:** Change is Key! And the study of cultural and societal change  
-[More details and registration](https://uucsslab.github.io/events/seminars-2025/tahmasebi)  
+[More details](https://uucsslab.github.io/events/seminars-2025/tahmasebi)  
