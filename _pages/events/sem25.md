@@ -7,7 +7,7 @@ permalink: /events/seminars-2025
 
 # Computational Social Science Seminar Series
 
-The objective of this series is to inspire researchers at Uppsala University interested in using social science computational methods, and to establish new research connections and collaborations. The seminars are funded by [eSSENCE: the e-Science collaboration](https://www.essenceofescience.se/w/es/).
+The objective of this series is to inspire researchers at Uppsala University interested in using computational social science methods, and to establish new research connections and collaborations. The seminars are funded by [eSSENCE: the e-Science collaboration](https://www.essenceofescience.se/w/es/).
 
 **April 7, 2025, 13:30-15:00**  
 **Location:** Old observatory, Uppsala University  
@@ -24,7 +24,7 @@ The objective of this series is to inspire researchers at Uppsala University int
 **May 13, 2025, 13:30-15:00**  
 **Location:** Old observatory, Uppsala University  
 **Speaker:** Adel Daoud, Linköping University  
-**Title:** The power of the hybrid-statistical-modeling culture: exemplified by combining earth-observation satellites and deep learning to analyze health and living conditions in Africa
+**Title:** The power of the hybrid-statistical-modeling culture: exemplified by combining earth-observation satellites and deep learning to analyze health and living conditions in Africa  
 [More details](https://uucsslab.github.io/events/seminars-2025/daoud) 
 
 **May 23, 2025, 13:30-15:00**  
