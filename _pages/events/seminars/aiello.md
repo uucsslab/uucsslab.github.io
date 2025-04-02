@@ -9,7 +9,7 @@ permalink: /events/seminars-2025/aiello
 
 **April 7, 2025, 13:30-15:00**  
 **Location:** Old observatory, Uppsala University  
-**Registration:** [Link](https://doit.medfarm.uu.se/bin/kurt3/kurt/8884022) (please register by April 3)
+**Registration:** [Link](https://doit.medfarm.uu.se/bin/kurt3/kurt/8884022) (please register by April 4)
 
 **Speakers:** Luca Maria Aiello and Arianna Pera, IT University Copenhagen
 
