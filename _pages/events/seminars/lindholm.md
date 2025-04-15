@@ -9,7 +9,7 @@ permalink: /events/seminars-2025/lindholm
 
 **May 7, 2025, 13:30-15:00**  
 **Location:** Old observatory, Uppsala University  
-**Registration:** a link will be posted here two weeks before the seminar  
+**Registration:** [Link](https://doit.medfarm.uu.se/bin/kurt3/kurt/8885346) (please register by May 2)
 
 **Speaker:** Johan Lindholm, Umeå University  
 
