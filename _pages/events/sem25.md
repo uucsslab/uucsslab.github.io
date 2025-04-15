@@ -19,7 +19,7 @@ The objective of this series is to inspire researchers at Uppsala University int
 **Location:** Old observatory, Uppsala University  
 **Speaker:** Johan Lindholm, Umeå University  
 **Title:** Are Computational Methods Revolutionising Legal Research?  
-[More details](https://uucsslab.github.io/events/seminars-2025/lindholm)  
+[More details and registration](https://uucsslab.github.io/events/seminars-2025/lindholm)  
 
 **May 13, 2025, 13:30-15:00**  
 **Location:** Old observatory, Uppsala University  
