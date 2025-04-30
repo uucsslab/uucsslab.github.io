@@ -9,7 +9,7 @@ permalink: /events/seminars-2025/daoud
 
 **May 13, 2025, 13:30-15:00**  
 **Location:** Old observatory, Uppsala University  
-**Registration:** a link will be posted here two weeks before the seminar  
+**Registration:**  [Link](https://doit.medfarm.uu.se/bin/kurt3/kurt/8885973) (please register by May 11)
 
 **Speaker:** Adel Daoud, Linköping University  
 
