@@ -1,4 +1,4 @@
-# Website of the Uppsala University Computational Social Science lab
+# Website of the Uppsala University Network on Computational Social Science lab
 
 This website is built with [Jekyll](https://jekyllrb.com/).
 It is derived from the great template provided by the
@@ -28,10 +28,6 @@ bundle exec jekyll serve
 ## Modify
 
 ### Add member
-
-Todo.
-
-### Add project
 
 Todo.
 
