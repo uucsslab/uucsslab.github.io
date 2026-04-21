@@ -1,21 +1,35 @@
-<div class="page__footer-follow">
-  <ul class="social-icons">
-    {% if site.data.ui-text[site.locale].follow_label %}
-      <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
-    {% endif %}
+<div id="footer" class="panel">
+  <div class="panel-footer">
+	<div class="container-fluid">
+		<div class="row">
+			<div class="col-sm-4">
+				<p>{{ site.shorttitle }}</p>
+				<!--img class="img-fluid" src="{{ site.baseurl }}/images/logo/logo.png"
+				     style="max-width: 100px;"-->
+			</div>
 
-    {% if site.footer.links %}
-      {% for link in site.footer.links %}
-        {% if link.label and link.url %}
-          <li><a href="{{ link.url }}" rel="nofollow noopener noreferrer"><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i> {{ link.label }}</a></li>
-        {% endif %}
-      {% endfor %}
-    {% endif %}
+			<!--div class="col-sm-4">
+				<p>Links</p>
+				<ul class="list-unstyled">
+					<li><a href="https://github.com/uucsslab">Github Repository</a></li>
+					<li><a href="">Link</a></li>
+					<li><a href="">Link</a></li>
+					<li><a href="">Link</a></li>
+				</ul>
+			</div>
 
-    {% unless site.atom_feed.hide %}
-      <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
-    {% endunless %}
-  </ul>
+			<div class="col-sm-4">
+				<p>Contact</p>
+				<p>Some Address</p>
+			</div-->
+		</div>
+
+		<div class="row mt-3">
+			<!--p class="text-center">Copyright, 2023</p-->
+		</div>
+	</div>
+  </div>
 </div>
 
-<!--div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div-->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script src="{{ site.url }}{{ site.baseurl }}/js/bootstrap.min.js"></script>
