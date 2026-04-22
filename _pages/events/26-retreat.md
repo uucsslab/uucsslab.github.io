@@ -10,15 +10,15 @@ permalink: /events/retreat-2026
 
 ## Agenda
 
-09:15 - 09:30: Welcome with coffee & sandwiches
-09:30 - 09:40: Introduction
-09:40 - 10:00: CIRCUS intro + Tour de table 
-10:00 - 11:15: Postcard from the future (CIRCUS)
-11:15 - 11:45: Coffee break (with freshly baked cinnamon buns)
-11:45 - 12:45: Generation of proposals for activities
-12:45 - 14:00: Lunch
-14:00 - 15:00: Activity planning for (at least) the first year
-15:00 - 15:30: CDHU (presentation & discussion with the new director)
+09:15 - 09:30: Welcome with coffee & sandwiches<br/>
+09:30 - 09:40: Introduction<br/>
+09:40 - 10:00: CIRCUS intro + Tour de table <br/>
+10:00 - 11:15: Postcard from the future (CIRCUS)<br/>
+11:15 - 11:45: Coffee break (with freshly baked cinnamon buns)<br/>
+11:45 - 12:45: Generation of proposals for activities<br/>
+12:45 - 14:00: Lunch<br/>
+14:00 - 15:00: Activity planning for (at least) the first year<br/>
+15:00 - 15:30: CDHU (presentation & discussion with the new director)<br/>
 15:30 - 16:00: Conclusion & Coffee (with UFOs)
 
 ## Objectives
