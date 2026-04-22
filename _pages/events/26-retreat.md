@@ -29,5 +29,5 @@ The agenda has been designed with three complementary objectives in mind:
 1. Identify what our long-term objectives are, the main obstacles, and how to approach them.
 1. Come up with a concrete plan for the network activities and distribute leadership.
 
-<img src="{{ site.baseurl }}/images/events/retreat1.png" style="max-width: 100px;">
+<img src="{{ site.baseurl }}/images/events/retreat1.png" style="max-width: 500px;">
 
