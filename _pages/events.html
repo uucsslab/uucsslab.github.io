@@ -11,9 +11,7 @@ permalink: /events.html
         {% if article.status != "past" %}
         <li class="media">
             <div class="media-body">
-            <a href="{{ site.url }}{{ site.baseurl }}{{ article.link }}">
-            <h4 class="mt-0 mb-1">{{ article.title }}</h4>
-            </a>
+            <h4 class="mt-0 mb-1"><a href="{{ site.url }}{{ site.baseurl }}{{ article.link }}">{{ article.title }}</a></h4>
             <p><small>{{ article.date }}</small></p>
             </div>
         </li>
@@ -29,9 +27,8 @@ permalink: /events.html
         {% if article.status == "past" %}
         <li class="media">
             <div class="media-body">
-            <h4 class="mt-0 mb-1">{{ article.title }}</h4>
+            <h4 class="mt-0 mb-1"><a href="{{ site.url }}{{ site.baseurl }}{{ article.link }}">{{ article.title }}</a></h4>
             <p><small>{{ article.date }}</small></p>
-            <a href="{{ article.url }}">Link</a>
             </div>
         </li>
         {% endif %}
