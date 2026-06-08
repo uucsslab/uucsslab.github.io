@@ -1,3 +1,26 @@
+- date: 2026-06-04
+  last_modified_at: 2026-06-04
+  title: "June after-work"
+  tags:
+    - events
+    - after-work
+  content: Just before the summer break we had our first after-work gathering.
+
+- date: 2026-05-25
+  last_modified_at: 2026-05-25
+  title: "New logo"
+  tags:
+    - logo
+  content: We had an internal process to choose our logo - which is now updated on our Linked-in account.
+
+- date: 2026-05-21
+  last_modified_at: 2026-05-21
+  title: "Social cybersecurity satellite"
+  tags:
+    - events
+    - conference
+  content: We received funding from eSSENCE to organise a satellite event of the the yearly Swedish e-Science Academy conference in Uppsala on 𝐒𝐨𝐜𝐢𝐚𝐥 𝐂𝐲𝐛𝐞𝐫𝐬𝐞𝐜𝐮𝐫𝐢𝐭𝐲, on October 13.
+
 - date: 2026-03-25
   last_modified_at: 2026-04-22
   title: "First Network retreat"
