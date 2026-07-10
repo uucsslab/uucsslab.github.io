@@ -5,6 +5,9 @@ sitemap: false
 permalink: /events/scs-2026
 ---
 
+<img src="../../images/slider/angstrom.png" alt="Angstrom">
+
+
 # Swedish e-Science Academy Satellite on Social Cybersecurity (Oct 13, 2026)
 
 We are happy to announce our workshop on Social Cybersecurity, taking place on the **October 13th** in **Uppsala**. 
