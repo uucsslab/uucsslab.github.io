@@ -5,6 +5,10 @@ sitemap: false
 permalink: /
 ---
 
+<img src="../../images/logo/uucss-logo.png" alt="UU-CSS logo">
+
+<br/>
+
 The Research Network on Computational Social Science is a university-wide collaboration for the integration of computational and social sciences, focusing on advanced computational methods, statistical inference, social scientific sensitivity and relevance.
 The Network is currently funded by the [Institute for Multi- and Interdisciplinarity](https://www.uu.se/en/centre/circus) at Uppsala University (for the years 2026-2027).
 
