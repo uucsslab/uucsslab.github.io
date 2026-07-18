@@ -4,12 +4,18 @@
   tags:
     - seminars
   link: /events/seminars-2026
-- date: October 13, 2026
+- date: Fall 2026
   status: planned
-  title: "Satellite on Social Cybersecurity"
+  title: "Swedish e-Science Academy Satellite on Social Cybersecurity"
   tags:
-    - seminars
+    - workshop
   link: /events/scs-2026
+- date: October 02, 2026
+  status: planned
+  title: "Computational Law workshop"
+  tags:
+    - workshop
+  link: /events/complaw-2026
 - date: 2026-03-25
   status: past
   title: "Network retreat"
