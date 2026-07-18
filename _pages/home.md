@@ -5,7 +5,7 @@ sitemap: false
 permalink: /
 ---
 
-<img src="../../images/logo/uucss-logo.png" alt="UU-CSS logo">
+<center><img src="../../images/logo/uucss-logo.png" alt="UU-CSS logo"></center>
 
 <br/>
 
