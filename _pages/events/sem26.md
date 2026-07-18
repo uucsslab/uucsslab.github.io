@@ -32,3 +32,6 @@ The objective of this series is to inspire researchers at Uppsala University int
 **Speaker:** Mykola Makhortykh, University of Bern  
 **Title:** TBA  
 [More details and registration](https://uucsslab.github.io/events/seminars-2026/makhortykh)  
+
+
+[List of previous speakers](https://uucsslab.github.io/events/seminars-2025)
