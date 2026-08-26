@@ -21,7 +21,7 @@ The workshop is hosted as a satellite to the [Swedish e-Science Academy](https:/
 
 - Henna Paakki (University of Helsinki)
 - Gianmarco De Francisci Morales (Intesa Sanpaolo Innovation Center, Turin)
-- Third invited speaker TBC
+- Hussam Habib (University of Graz)
 
 
 ## Registration
@@ -45,10 +45,10 @@ Note that signing up for posters through the official registration form is for p
 Full day schedule
 
 09.00 - 09.30 Welcome to the Social Cybersecurity workshop <br/>
-09.30 - 10.00 Invited speaker 1 <br/>
-10.00 - 10.30 Invited speaker 2 <br/>
+09.30 - 10.00 Gianmarco De Francisci Morales <br/>
+10.00 - 10.30 Henna Paakki <br/>
 10.30 - 11.00 Coffee break <br/>
-11.00 - 11.30 Invited speaker 3 <br/>
+11.00 - 11.30 Hussam Habib <br/>
 11.30 - 12.00 Short presentations <br/>
 12.00 - 13.00 Lunch (venue TBD) <br/>
 
