@@ -40,9 +40,13 @@ Note that signing up for posters through the official registration form is for p
 ## Program
 
 **October 13th, 2026**<br/>
-**Location TBD**
+**Venue:** Ångström Laboratory Hus 10, Regementsvägen 10, Uppsala.
+- Morning: **room 101190**, first floor (➡️[open map](https://link.mazemap.com/FXXrcQPf)).
+- Afternoon: **room 101142**, first floor (➡️[open map](https://link.mazemap.com/KfBBJDDz)).
 
-Full day schedule
+
+### Full day schedule
+
 
 09.00 - 09.30 Welcome to the Social Cybersecurity workshop <br/>
 09.30 - 10.00 Gianmarco De Francisci Morales <br/>
