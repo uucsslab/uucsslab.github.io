@@ -8,8 +8,8 @@ permalink: /events/seminars-2026/fuersich
 # CS4 seminar: Laura Fürsich
 
 **Oct. 16, 2026, 13:30-15:00**  
-**Location:** TBA  
-**Registration:** [Link](https://doit.medfarm.uu.se/bin/kurt3/kurt/8908858) (please register by October 18)
+**Location:** Ångström laboratory, room 106157   
+**Registration:** [Link](https://doit.medfarm.uu.se/bin/kurt3/kurt/8908858) (please register by October 14)
 
 **Speaker:** Laura Fürsich, Linköping University 
 
