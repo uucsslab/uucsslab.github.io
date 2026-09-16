@@ -16,9 +16,9 @@ The objective of this series is to inspire researchers at Uppsala University int
 [More details and registration](https://uucsslab.github.io/events/seminars-2026/habinek)  
 
 **Oct. 16, 2026, 13:30-15:00**  
-**Location:** TBA  
+**Location:** Ångström laboratory, room 106157    
 **Speaker:** Laura Fürsich, Linköping University  
-**Title:** TBA  
+**Title:** Consolidation in Time and Space: Information-Theoretic Decompositions of Inequality  
 [More details and registration](https://uucsslab.github.io/events/seminars-2026/fuersich)  
 
 **Nov. 17, 2026, 13:30-15:00**  
