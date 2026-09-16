@@ -8,7 +8,7 @@ permalink: /events/scs-2026
 <img src="../../images/slider/angstrom.png" alt="Angstrom">
 
 
-# Swedish e-Science Academy Satellite on Social Cybersecurity (Oct 13, 2026)
+# Swedish e-Science Academy Satellite on Social Cybersecurity (October 13, 2026)
 
 We are happy to announce our workshop on Social Cybersecurity, taking place on the **October 13th** in **Uppsala**. 
 
@@ -19,30 +19,36 @@ The workshop is hosted as a satellite to the [Swedish e-Science Academy](https:/
 
 ## Invited speakers
 
-- Henna Paakki (University of Helsinki)
+- Henna Paakki (Department of Languages, University of Helsinki)
 - Gianmarco De Francisci Morales (Intesa Sanpaolo Innovation Center, Turin)
-- Hussam Habib (University of Graz)
+- Hussam Habib (Interdisciplinary Digital Lab, University of Graz)
 
 
 ## Registration
 
-The workshop is free of charge and includes lunch and fika on October 13th. Please note that the number of participants for lunch is limited, so early registration is recommended. 
+The workshop is **free of charge** and includes lunch and fika. 
 
 You can sign up to attend our workshop by registering through the official conference form (below) and specifying the events you wish to attend.
 If you are not affiliated with any of the eSSENCE nodes you may still request a hotel night in the registration form. Please note, however, that availability cannot be guaranteed.
 
-Note that signing up for posters through the official registration form is for presentations at the main conference.
-**If you are interested in presenting something at the workshop** (format to be decided), feel free to contact [us](#organizing-committee) **no later than end of September**.
+**If you are interested in presenting** during the event (short presentations, 10-15 minutes), feel free to contact us. 
+Note that signing up for posters through the official registration form is intended ONLY for presentations at the main conference.
 
-[**Direct link to register**](https://registration.invajo.com/c2313c25-aff9-4efc-bd74-a2b0641e374e).
+~~[**Direct link to register**](https://registration.invajo.com/c2313c25-aff9-4efc-bd74-a2b0641e374e).~~
+
+> Registration is now closed. If you would still like to participate or give a short presentation, please contact [us](#organizing-committee) **no later than end of September**.
 
 
 ## Program
 
 **October 13th, 2026**<br/>
-**Location TBD**
+**Venue:** Ångström Laboratory Hus 10, Regementsvägen 10, Uppsala.
+- Morning: **room 101190**, first floor (➡️[open map](https://link.mazemap.com/FXXrcQPf)).
+- Afternoon: **room 101142**, first floor (➡️[open map](https://link.mazemap.com/KfBBJDDz)).
 
-Full day schedule
+
+### Full day schedule
+
 
 09.00 - 09.30 Welcome to the Social Cybersecurity workshop <br/>
 09.30 - 10.00 Gianmarco De Francisci Morales <br/>
@@ -50,7 +56,7 @@ Full day schedule
 10.30 - 11.00 Coffee break <br/>
 11.00 - 11.30 Hussam Habib <br/>
 11.30 - 12.00 Short presentations <br/>
-12.00 - 13.00 Lunch (venue TBD) <br/>
+12.00 - 13.00 Lunch <br/>
 
 13.00 - 13.15 Intro to afternoon activities <br/>
 13.15 - 13.45 Short presentations <br/>
