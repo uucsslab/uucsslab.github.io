@@ -55,11 +55,11 @@ Note that signing up for posters through the official registration form is inten
 10.00 - 10.30 Henna Paakki <br/>
 10.30 - 11.00 Coffee break <br/>
 11.00 - 11.30 Hussam Habib <br/>
-11.30 - 12.00 Short presentations <br/>
+11.30 - 12.00 Short presentations (Bjorn Victor, Diletta Goglia) <br/>
 12.00 - 13.00 Lunch <br/>
 
 13.00 - 13.15 Intro to afternoon activities <br/>
-13.15 - 13.45 Short presentations <br/>
+13.15 - 13.45 Short presentations (Erik Olsson, Inga Wohlert) <br/>
 13.45 - 14.30 Panel discussion <br/>
 14.30 - 15.00 Coffee break <br/>
 15.00 - 15.45 Group activity: mind map discussion <br/>
