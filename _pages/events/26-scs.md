@@ -36,7 +36,7 @@ Note that signing up for posters through the official registration form is inten
 
 ~~[**Direct link to register**](https://registration.invajo.com/c2313c25-aff9-4efc-bd74-a2b0641e374e).~~
 
-> Registration is now closed. If you would still like to participate or give a short presentation, please contact [us](#organizing-committee) **no later than end of September**.
+> Registration is now closed. If you would still like to participate or give a short presentation, please contact [us](#organizing-committee) **no later than end of September 2026**.
 
 
 ## Program
@@ -98,4 +98,4 @@ Contacts
 
 
 ## Acknowledgments
-We gratefully acknowledge support from [eSSENCE](https://www.essenceofescience.se/w/es/en).
+We gratefully acknowledge support from [eSSENCE](https://www.essenceofescience.se/w/es/en), [CIRCUS](https://www.uu.se/uunifi/uunifi-circus?languageId=1) (Centre for Integrated Research on Culture and Society) and the Cybersecurity graduate school @ UU IT Department.
