@@ -36,7 +36,7 @@ Note that signing up for posters through the official registration form is inten
 
 ~~[**Direct link to register**](https://registration.invajo.com/c2313c25-aff9-4efc-bd74-a2b0641e374e).~~
 
-> Registration is now closed. If you would still like to participate or give a short presentation, please contact [us](#organizing-committee) **no later than end of September**.
+> Registration is now closed. If you would still like to participate or give a short presentation, please contact [us](#organizing-committee) **no later than end of September 2026**.
 
 
 ## Program
@@ -55,11 +55,11 @@ Note that signing up for posters through the official registration form is inten
 10.00 - 10.30 Henna Paakki <br/>
 10.30 - 11.00 Coffee break <br/>
 11.00 - 11.30 Hussam Habib <br/>
-11.30 - 12.00 Short presentations <br/>
+11.30 - 12.00 Short presentations (Bjorn Victor, Diletta Goglia) <br/>
 12.00 - 13.00 Lunch <br/>
 
 13.00 - 13.15 Intro to afternoon activities <br/>
-13.15 - 13.45 Short presentations <br/>
+13.15 - 13.45 Short presentations (Erik Olsson, Inga Wohlert) <br/>
 13.45 - 14.30 Panel discussion <br/>
 14.30 - 15.00 Coffee break <br/>
 15.00 - 15.45 Group activity: mind map discussion <br/>
@@ -98,4 +98,4 @@ Contacts
 
 
 ## Acknowledgments
-We gratefully acknowledge support from [eSSENCE](https://www.essenceofescience.se/w/es/en).
+We gratefully acknowledge support from [eSSENCE](https://www.essenceofescience.se/w/es/en), [CIRCUS](https://www.uu.se/uunifi/uunifi-circus?languageId=1) (Centre for Integrated Research on Culture and Society) and the Cybersecurity graduate school @ UU IT Department.
