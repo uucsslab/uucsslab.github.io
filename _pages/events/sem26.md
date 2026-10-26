@@ -24,7 +24,7 @@ The objective of this series is to inspire researchers at Uppsala University int
 **Nov. 17, 2026, 13:30-15:00**  
 **Location:** Ångström laboratory, room 106157    
 **Speaker:** Adriana Iamnitchi, Maastricht University   
-**Title:** TBA  
+**Title:** Social Media Research in the Age of AI: Data Access, Synthetic Data, and the Limits of Privacy  
 [More details and registration](https://uucsslab.github.io/events/seminars-2026/iamnitchi) 
 
 **Dec. 15, 2026, 13:30-15:00**  
